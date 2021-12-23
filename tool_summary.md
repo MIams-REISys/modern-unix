@@ -1,7 +1,39 @@
-Modern Unix
+**Modern Unix**
 
-bat:        A cat clone with syntax highlighting and Git integration
-exa:        A modern replacement for ls
+| bat | A cat clone with syntax highlighting and Git integration|
+| ------- | ------------------------------------------------------------ |
+| exa     | A modern replacement for ls                                  |
+| lsd | The next gen file listing command. Backwards compatible with ls |
+| delta | A viewer for git and diff output |
+|         |                                                              |
+|         |                                                              |
+|         |                                                              |
+|         |                                                              |
+|         |                                                              |
+|         |                                                              |
+|         |                                                              |
+|         |                                                              |
+|         |                                                              |
+|         |                                                              |
+|         |                                                              |
+|         |                                                              |
+|         |                                                              |
+|         |                                                              |
+|         |                                                              |
+|         |                                                              |
+|         |                                                              |
+|         |                                                              |
+|         |                                                              |
+|         |                                                              |
+|         |                                                              |
+|         |                                                              |
+|         |                                                              |
+|         |                                                              |
+|         |                                                              |
+|         |                                                              |
+
+
+
 lsd:        The next gen file listing command. Backwards compatible with ls
 delta:      A viewer for git and diff outpu
 dust:       A more intuitive version of du written in rust
