@@ -1,10 +1,24 @@
 **Modern Unix**
 
-| bat | A cat clone with syntax highlighting and Git integration|
+
+
+
+
+| te   | test | test |
+| ---- | ---- | ---- |
+| test |      |      |
+|      |      |      |
+|      |      |      |
+
+
+
+
+| Command | Description								|
 | ------- | ------------------------------------------------------------ |
+| bat     | A cat clone with syntax highlighting and Git integration     |
 | exa     | A modern replacement for ls                                  |
-| lsd | The next gen file listing command. Backwards compatible with ls |
-| delta | A viewer for git and diff output |
+| lsd     | The next gen file listing command. Backwards compatible with ls |
+| delta   | A viewer for git and diff output                             |
 |         |                                                              |
 |         |                                                              |
 |         |                                                              |
